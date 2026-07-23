@@ -28,7 +28,7 @@
    ```bash
    python -m venv venv
    source venv/bin/activate    # Windows: venv\Scripts\activate
-   pip install pandas numpy scikit-learn tensorflow
+   pip install requirements.txt
    ```
 4. Open `energy_consumption.ipynb` in Jupyter or VS Code.
 5. Run all cells from top to bottom (**Restart Kernel + Run All**).
