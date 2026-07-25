@@ -11,7 +11,6 @@
 | `energy_consumption.ipynb` | Loads `household_power_consumption.txt`, handles missing values, resamples to hourly aggregates, builds chronological train/val/test splits, scales features, trains the LSTM, and evaluates forecast accuracy, inference latency, and anomaly alerting |
 | `household_power_consumption.txt` | Raw minute-level dataset  |
 | `power_consumption.csv` | Raw dataset in csv format |
-| `data_dictionary.md` | Description of the cleaned dataset |
 | `requirements.txt` | Python library versions needed to reproduce this work |
 
 ## Pipeline overview
